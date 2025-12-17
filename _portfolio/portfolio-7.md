@@ -6,7 +6,7 @@ collection: portfolio
 
 **Problem Statement:**
 Ride-hailing services, like Uber and Ola, leverage online platforms to link passengers with local drivers using personal vehicles, often offering a more affordable and convenient alternative to traditional
-taxis. Enhancing the efficiency of these services' taxi dispatch systems hinges on predicting the duration a driver's taxi will be occupied. Accurate forecasts of ride completion times enable dispatchers to optimally assign drivers to pickup requests.
+taxis. Enhancing the efficiency of these services' taxi dispatch systems hinges on predicting the duration a driver's taxi will be occupied. Accurate forecasts of ride completion times enable dispatchers to optimally assign drivers to pickup requests.1111
 
 **Learning Objective:**
 <ul>
